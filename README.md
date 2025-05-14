@@ -1,4 +1,4 @@
-## New Version ( what's new)
+## New Version 
 - Hibernate configuration added( database and tables automatically create when run the project)
 - Service classes provide reusable services throughout project
 - dao classes interact with database 
